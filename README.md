@@ -26,3 +26,5 @@ Skriv en kort beskrivning av vad du ska bygga och vad applikationen ska kunna g�
 - Vad har jag gjort?
 - Vad har jag lärt mig?
 - Vad behöver jag göra härnäst?
+
+//gör en ny ###Dag [number] dagligen!
